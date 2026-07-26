@@ -1,0 +1,13 @@
+yolodrone : py -3.12 YOLO_test.py
+
+yolosatelet :  py -3.12 Satellite_test.py 
+
+Unetdrone : py -3.12 predict_and_visualize.py
+            py -3.12 predict_external_colored.py 
+
+Unetsatellite : py -3.12 dossier_predictions1.py
+                py -3.12 DICE_IOU_predictions.py 
+                py -3.12 predict_and_visualize.py
+                py -3.12 predict_external_colored.py 
+
+MaskRnn2 : py -3.12 predict_external_image.py

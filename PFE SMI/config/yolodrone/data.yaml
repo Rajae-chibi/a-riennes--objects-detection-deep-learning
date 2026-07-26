@@ -1,0 +1,6 @@
+train: C:/Users/Hp/OneDrive/Bureau/datasetyolov8/train/images
+val: C:/Users/Hp/OneDrive/Bureau/datasetyolov8/valid/images
+test: C:/Users/Hp/OneDrive/Bureau/datasetyolov8/test/images
+
+nc: 3
+names: ['car', 'motorcycle']

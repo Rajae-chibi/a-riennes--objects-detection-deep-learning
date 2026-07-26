@@ -1,0 +1,6 @@
+train: C:/Users/Hp/OneDrive/Bureau/yolosatelete/train/images
+val: C:/Users/Hp/OneDrive/Bureau/yolosatelete/valid/images
+test: C:/Users/Hp/OneDrive/Bureau/yolosatelete/test/images
+nc: 5
+names: ['aircraft', 'bus', 'small car', 'train', 'truck']
+
